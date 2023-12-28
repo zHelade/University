@@ -1,0 +1,333 @@
+на | Moscow City Committee for State Registration of Real Estate Titles | 20
+в | in | 18
+по | under | 14
+вектор | vector | 14
+прямой | direct | 14
+и | and | 11
+не | not | 10
+с | c | 9
+быть | be | 9
+до | to | 8
+расстояние | distance | 8
+угол | angle | 7
+пара | pair | 7
+от | from | 7
+метод | method | 6
+это | is | 6
+коллинеарность | collinearity | 6
+произведение | Product | 6
+между | Between | 6
+плоскость | Plane | 6
+точка | point | 6
+о | C | 5
+матрица | Matrix | 5
+определитель | Determinant | 5
+для | for | 5
+что | what | 5
+зачёт | passed | 5
+кто | who | 4
+кр | cr. | 4
+порядок | order | 4
+большой | large | 4
+уравнение | the equation | 4
+нахождение | нахождение  | 4
+весь | весь | 4
+всё | Everything | 4
+сегодня | today | 4
+орг | org. | 4
+тема | theme | 4
+тот | Thoth | 4
+ауд | class | 4
+расположение | Location | 4
+пространство | space | 4
+ур | Ur | 4
+ия | “AndI, | 4
+русский | английский | 4
+декабрь | December | 4
+я | . | 3
+матричный | matrix | 3
+разложение | degradation | 3
+минор | MINOR | 3
+а | a | 3
+формула | Formula | 3
+завтра | tomorrow | 3
+время | Time | 3
+задание | задание | 3
+жалилов | stingers | 3
+каримзай | karimzai | 3
+ким | Kim | 3
+хубиев | khubiev | 3
+у | y | 3
+линал | linal | 3
+старый | old.  | 2
+корпус | housing | 2
+этаж | floor | 2
+где | Where | 2
+умножение | multiplication | 2
+элементарный | Basic | 2
+правило | rule | 2
+нуль | is null | 2
+чем | . | 2
+ранг | Rank | 2
+слау | Слау | 2
+тетрадь | Notebook | 2
+пользоваться | use | 2
+но | Not edged | 2
+можно | May I come in?  | 2
+калькулятор | Calculator | 2
+принести | bring | 2
+лист | sheet | 2
+матанализ | matanalysis | 2
+возможно | possible | 2
+студент | student | 2
+неделя | week | 2
+практика | internship | 2
+сразу | reveal everything | 2
+собрание | assembly | 2
+занятие | lesson | 2
+про | on | 2
+регион | Region | 2
+бабич | Babic | 2
+бетина | betina | 2
+гинзбург | ginsburg | 2
+доровин | dorovin | 2
+коряз | dirt | 2
+синельников | SINELNIKOV  | 2
+сташевич | stashevich | 2
+степанов | Stepanov | 2
+ширшов | shirshov | 2
+глава | chap. | 2
+болдин | boldin | 2
+иванов | Ivanov | 2
+напоминать | admonish | 2
+базис | Base Price | 2
+вывод | withdrawal | 2
+проверка | verification | 2
+бескоординатный | uncoordinated | 2
+координатный | coordinate | 2
+скалярный | scalar | 2
+косинус | COSINE | 2
+ми | cm | 2
+проекция | Projection | 2
+линия | Line | 2
+понятие | Concept | 2
+направить | to refer | 2
+квадрика | quadric | 2
+эллипс | Ellipse | 2
+гипербола | hyperbole | 2
+парабола | Parable | 2
+схематический | schematic | 2
+построение | building | 2
+векторный | vector | 2
+площадь | area | 2
+параллелограмм | parallelogram | 2
+смешанный | mixed | 2
+компланарность | компланарность | 2
+некомпланарность | non-complanarity | 2
+ориентация | Orientation | 2
+объём | volume | 2
+параллелепипед | Box | 2
+тетраэдр | tetrahedron | 2
+призма | prism | 2
+плоск | flat | 2
+исследование | Study | 2
+взаимный | multileg | 2
+вы | vy | 2
+иб | IB | 2
+январь | January | 2
+остальной | Rest of  | 2
+нет | No | 2
+ого | . | 2
+топать | Stomp | 1
+переход | switch | 1
+найтись | find | 1
+алгебра | Algebra | 1
+действие | action | 1
+они | Oni | 1
+сложение | addition | 1
+транспонирование | транспонирование | 1
+число | day | 1
+многочлен | polynomial | 1
+саррюс | sarrus | 1
+треугольник | triagle | 1
+строка | line | 1
+столбец | Column | 1
+делание | doing | 1
+приведение | cast | 1
+к | к | 1
+угольный | coal | 1
+вид | type | 1
+теорема | Theorem is valid. | 1
+лаплас | Laplace | 1
+скрытый | hidden | 1
+неравенство | the inequality | 1
+повторить | repeat | 1
+вандермонд | vandermonde | 1
+помощь | Assistance  | 1
+преобразование | transformation | 1
+окаймлять | окаймлять | 1
+кол | quantity | 1
+определённый | particular | 1
+базисный | base figure | 1
+обратный | valve | 1
+полоска | band | 1
+присоединить | to be connected  | 1
+простой | easy | 1
+сложный | sophisticated | 1
+гаусс | Gauss | 1
+невырожденный | невырожденный | 1
+крамер | Kramer | 1
+отдельный | Otdelny | 1
+листочек | leaf | 1
+выписать | draw | 1
+инженерный | Engineering | 1
+аудитория | audience | 1
+удачный | Udachny | 1
+голодный | hungry | 1
+игра | сыграть | 1
+сорянин | soryanin | 1
+поздно | late | 1
+скачать | for | 1
+приложение | was installed | 1
+скс | [СКС] | 1
+рф | RF | 1
+зарегистрироваться | sign in | 1
+немой | Mute | 1
+контрольный | Control | 1
+выдача | withdrawal | 1
+стипендиальный | scholarship | 1
+карта | map | 1
+сказать | tell | 1
+последний | last | 1
+день | day | 1
+получение | pick-up | 1
+потом | then | 1
+прийтись | to come | 1
+идти | going | 1
+получать | Scrutinize | 1
+отделение | department | 1
+да | Yes | 1
+внимание | attention | 1
+первый | first | 1
+курс | course | 1
+этот | this... | 1
+пакшин | pakshin | 1
+р | r | 1
+дисциплина | disciplines | 1
+история | history | 1
+россия | Russia | 1
+состояться | take place | 1
+причина | root cause | 1
+болезнь |  Менингококковая инфекция.Болезнь | 1
+преподаватель | Professor | 1
+перенос | abscond | 1
+сообщить | report | 1
+дополнительно | additional | 1
+получаться | to be obtained | 1
+только | only | 1
+ага | Huh | 1
+урааа | Y-Yay | 1
+потратить | Spend → | 1
+поездка | поездка/trip | 1
+после | after | 1
+информатика | Information Science  | 1
+небольшой | небольшой | 1
+поднять | bumpup | 1
+сходить | go | 1
+за | for | 1
+пригласительный | invitation | 1
+занять | occupy | 1
+надеяться | look forward to | 1
+минута | minute | 1
+разобраться | figure out | 1
+главное | home | 1
+уходить | going away | 1
+отписаться | unsubscribe | 1
+флудилка | Флудилка | 1
+добрый | good | 1
+вечер | evening | 1
+даниил | Daniel | 1
+заведовать | Head | 1
+кафедра | Chair | 1
+разрешить | allow | 1
+предупредить | Were they trying to warn you? | 1
+пожалуйста | please | 1
+ваш | yours | 1
+одногруппник | classmate | 1
+долг | debt | 1
+свой | its own | 1
+рассказ | Рассказ | 1
+отправить | Send | 1
+почта | mail | 1
+город | City | 1
+великий | Greatness | 1
+отечественный | domestic | 1
+война | war | 1
+семинар | seminar | 1
+ларичкина | larichkina | 1
+конспект | 6.2.1 Ð Ð±Ñ Ð¸Ðµ Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ | 1
+мало | little | 1
+ходить | to move | 1
+дискуссия | Discussion group | 1
+струк | струк | 1
+онлайн | online | 1
+ссылка | link | 1
+же | Wher | 1
+пин | pin it | 1
+код | code | 1
+аристархов | aristarchus | 1
+основный | basic | 1
+который | which the | 1
+должный | Due | 1
+знать | Aristocracy | 1
+особенно | particularly | 1
+важно | important | 1
+много | many | 1
+пропускать | skip | 1
+матанав | matanav | 1
+мпивр | mpivre | 1
+кст | Кст | 1
+вроде | sort | 1
+инф | info | 1
+важный | important | 1
+мы | we're | 1
+дом | house | 1
+лекция | Lecture | 1
+учить | learn | 1
+питон | B61-B62 FAMILY BOIDAE | 1
+стоить | to cost | 1
+мат | mar | 1
+анал | Human anus | 1
+экзамен | exam | 1
+спасибо | thank you | 1
+предмет | Subject | 1
+информация | information | 1
+язык | language | 1
+список | LIST | 1
+анохин | Anokhin | 1
+беспечал | bezschal | 1
+гушчян | gushchyan | 1
+дворников | wipers | 1
+золотарёв | zOLOTARYOV | 1
+конушкина | konushkina | 1
+коршик | basket | 1
+марченко | Marchenko | 1
+пучок | hair bun | 1
+хужахмет | khuzhakhmet | 1
+шаталов | shatalov | 1
+ч | . | 1
+если | if | 1
+вдруг | suddenly | 1
+указанный | Specified | 1
+мочь | might | 1
+досдать | to reach | 1
+упражнение | exercise | 1
+откладывать | Respite | 1
+ещё | more | 1
+понедельник | Monday | 1
+он | ?? | 1
+конец | end | 1
+вопрос | question | 1
+матана | matana | 1
+без | without | 1
+доказательство | Proof | 1
